@@ -1,5 +1,6 @@
 // Selection sorting algorithm
-// Time complexity: O(logN), space complexity: O(N)
+// Time complexity: O(N logN) - average case, O(N^2) - worst case
+// Space complexity: O(N)
 
 const listOfNumbers = [333, 55, 21, 13, 92, 51, 23, -100, 12, 65, 72, -21, -10, 15, 19];
 
